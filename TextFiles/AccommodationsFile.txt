@@ -1,0 +1,15 @@
+HOTEL|Hotel Esperia|100|150|true|false|true|false|false|3
+HOTEL|Hotel Massimo|100|100|true|false|true|false|false|3
+ROOM|Joanna's Rooms|50|50|false|true|false|false|false|4
+ROOM|Terrible Rooms|250|200|false|true|false|true|false|4
+HOUSE|Elens House|500|135|true|true|true|true|false|2
+ROOM|Small Room|85|35|true|false|false|false|false|2
+ROOM|Budapest Rooms|150|60|true|false|false|false|false|4
+HOUSE|Excellent House|110|70|true|true|false|true|false|3
+HOUSE|Cozy Warmth|300|230|true|true|true|true|false|3
+HOUSE|Wonderful House|450|150|true|false|false|false|false|2
+HOUSE|Cool Water House|1000|450|true|true|false|true|false|2
+HOUSE|Luxurious|560|300|true|true|true|false|false|9
+HOUSE|Unpleasant Stay|1000|150|false|true|false|false|false|9
+HOUSE|House in the Woods|250|150|false|true|false|false|false|9
+ROOM|Single Room|35|13|true|false|false|false|false|9

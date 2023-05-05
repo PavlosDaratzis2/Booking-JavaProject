@@ -1,0 +1,11 @@
+Maria|Mike|1|1618002000000|1618434000000|true|Hotel Esperia
+Maria|Mike|1|1617310800000|1617915600000|false|Hotel Esperia
+Maria|Chris|2|1612994400000|1613080800000|false|Hotel Massimo
+Maria|Anastasia|2|1646085600000|1646431200000|false|Hotel Massimo
+Mika|Mike|4|1648933200000|1654117200000|false|Terrible Rooms
+Elen|Anastasia|5|1640988000000|1648674000000|false|Elens House
+Mika|Anastasia|3|1648846800000|1649106000000|false|Joanna's Rooms
+Maria|NICK|1|1645048800000|1645394400000|false|Hotel Esperia
+Mika|Mike|4|1665003600000|1670191200000|true|Terrible Rooms
+Gutenberg|Anastasia|13|1655499600000|1655672400000|true|Unpleasant Stay
+Mika|NICK|3|1662152400000|1662498000000|false|Joanna's Rooms

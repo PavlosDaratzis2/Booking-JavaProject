@@ -1,0 +1,9 @@
+ADMIN|Kostas|1111|false|false
+PROV|Elen|1111|false|false|St Bernard's Str London
+PROV|Maria|1111|false|false|Plovid
+PROV|Mika|1111|false|false|Thessaloniki
+CLIENT|Mike|1111|false|false|Egnatia 68, Thessaloniki
+CLIENT|Chris|1111|false|false|Kypoyroy 15, Melenekitsi
+CLIENT|Anastasia|1111|false|false|Conitsua Apan
+CLIENT|NICK|1111|false|false|Ifestionos
+PROV|Gutenberg|1111|false|false|Typography Lane 3
